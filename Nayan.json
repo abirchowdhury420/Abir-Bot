@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Abir",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -10,17 +10,17 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "PREFIX": "Abir",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "61578658041989"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100083241262207",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61578658041989"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
